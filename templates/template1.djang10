@@ -1,0 +1,5 @@
+<image src="/assets/magritte6.jpg"/>
+
+<hr>
+Hello from  djang10 template!  counter is : {{ theCount }}
+
